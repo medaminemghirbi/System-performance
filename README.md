@@ -6,3 +6,11 @@
 </ul>
 
 <h5>ps : It should ruby enivironement installed in your system</h5>
+if you want to install it 
+<ul>
+	<li><a href="https://gorails.com/setup/ubuntu/22.04"> ubuntu</link></li>
+	<li><a href="https://gorails.com/setup/windows/11"> Windows</link></li>
+	<li><a href="https://gorails.com/setup/macos/13-ventura"> Mac OS</link></li>
+</ul>
+
+
